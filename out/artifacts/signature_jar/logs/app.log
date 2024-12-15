@@ -1,0 +1,50 @@
+2024-12-15 02:04:31 [main] INFO  project.signature.Main - Начало программы
+2024-12-15 02:04:36 [JavaFX Application Thread] ERROR project.signature.Main - Попытка анализа невыбранной директории
+2024-12-15 02:04:40 [JavaFX Application Thread] INFO  project.signature.Main - Работа завершена
+2024-12-15 02:05:05 [main] INFO  project.signature.Main - ?????? ?????????
+2024-12-15 02:05:10 [JavaFX Application Thread] INFO  project.signature.Main - ?????? ?????????
+2024-12-15 02:07:41 [main] INFO  project.signature.Main - ?????? ?????????
+2024-12-15 02:07:44 [JavaFX Application Thread] INFO  project.signature.Main - ?????? ?????????
+2024-12-15 02:08:08 [main] INFO  project.signature.Main - Начало программы
+2024-12-15 02:08:19 [JavaFX Application Thread] INFO  project.signature.DirScanner - Найден исполняемый файл: 7z.dll
+2024-12-15 02:08:19 [JavaFX Application Thread] INFO  project.signature.DirScanner - Найден исполняемый файл: 7z.exe
+2024-12-15 02:08:20 [JavaFX Application Thread] INFO  project.signature.DirScanner - Найден исполняемый файл: down.exe
+2024-12-15 02:08:20 [JavaFX Application Thread] INFO  project.signature.DirScanner - Найден исполняемый файл: AdobePIM.dll
+2024-12-15 02:08:20 [JavaFX Application Thread] INFO  project.signature.DirScanner - Найден исполняемый файл: UpdateRedirector.dat
+2024-12-15 02:08:20 [JavaFX Application Thread] INFO  project.signature.DirScanner - Найден исполняемый файл: Set-up.exe
+2024-12-15 02:08:20 [JavaFX Application Thread] INFO  project.signature.DirScanner - Найден исполняемый файл: wget.exe
+2024-12-15 02:08:20 [JavaFX Application Thread] INFO  project.signature.Main - Найдено 7 исполняемых файла
+2024-12-15 02:08:20 [JavaFX Application Thread] INFO  project.signature.Main - Отображение окна с метаданными исполняемых файлов
+2024-12-15 02:08:38 [JavaFX Application Thread] INFO  project.signature.Main - Работа завершена
+2024-12-15 02:13:48 [main] INFO  project.signature.Main - The beginning of the program
+2024-12-15 02:13:50 [JavaFX Application Thread] ERROR project.signature.Main - Attempt to analyze an unselected directory
+2024-12-15 02:13:56 [JavaFX Application Thread] INFO  project.signature.Main - No executable files found
+2024-12-15 02:13:56 [JavaFX Application Thread] INFO  project.signature.Main - No executable files found
+2024-12-15 02:13:57 [JavaFX Application Thread] INFO  project.signature.Main - No executable files found
+2024-12-15 02:13:58 [JavaFX Application Thread] INFO  project.signature.Main - No executable files found
+2024-12-15 02:14:15 [JavaFX Application Thread] INFO  project.signature.Main - No executable files found
+2024-12-15 02:14:21 [JavaFX Application Thread] INFO  project.signature.Main - No executable files found
+2024-12-15 02:14:30 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: 7z.dll
+2024-12-15 02:14:30 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: 7z.exe
+2024-12-15 02:14:30 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: down.exe
+2024-12-15 02:14:30 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: AdobePIM.dll
+2024-12-15 02:14:30 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: UpdateRedirector.dat
+2024-12-15 02:14:30 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: Set-up.exe
+2024-12-15 02:14:30 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: wget.exe
+2024-12-15 02:14:30 [JavaFX Application Thread] INFO  project.signature.Main - 7 executable files found
+2024-12-15 02:14:30 [JavaFX Application Thread] INFO  project.signature.Main - Displaying a window with metadata of executable files
+2024-12-15 02:14:43 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: 7z.dll
+2024-12-15 02:14:43 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: 7z.exe
+2024-12-15 02:14:43 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: down.exe
+2024-12-15 02:14:43 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: AdobePIM.dll
+2024-12-15 02:14:43 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: UpdateRedirector.dat
+2024-12-15 02:14:43 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: Set-up.exe
+2024-12-15 02:14:43 [JavaFX Application Thread] INFO  project.signature.DirScanner - The executable file was found: wget.exe
+2024-12-15 02:14:43 [JavaFX Application Thread] INFO  project.signature.Main - 7 executable files found
+2024-12-15 02:14:43 [JavaFX Application Thread] INFO  project.signature.Main - Displaying a window with metadata of executable files
+2024-12-15 02:14:45 [JavaFX Application Thread] INFO  project.signature.Main - Opening a window to add a signature
+2024-12-15 02:14:49 [JavaFX Application Thread] INFO  project.signature.Main - Signature added: екнтекнтект -> ртентент
+2024-12-15 02:14:58 [JavaFX Application Thread] INFO  project.signature.Main - Signature added: add -> add
+2024-12-15 02:15:00 [JavaFX Application Thread] INFO  project.signature.Main - Viewing signatures
+2024-12-15 02:15:30 [JavaFX Application Thread] INFO  project.signature.Main - No executable files found
+2024-12-15 02:15:32 [JavaFX Application Thread] INFO  project.signature.Main - The work is completed

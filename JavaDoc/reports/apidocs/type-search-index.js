@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"project.signature","l":"DirScanner"},{"p":"project.signature","l":"Launcher"},{"p":"project.signature","l":"Main"},{"p":"project.signature","l":"Signature"}];updateSearchResults();
